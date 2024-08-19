@@ -2,7 +2,7 @@
 
 <li>Projected graduation 2027</li>
 <li>Interested in Computers</li>
-<li></li>Experience in Gaming</li>
+<li>Experience in Gaming</li>
 
 ## Term 1
 
