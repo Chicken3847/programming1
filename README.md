@@ -6,7 +6,7 @@
 
 ## Term 1
 ### Etch-A-Sketch
-![Running app](https://github.com/Chicken3847/programming1/blob/main/images/Sketch.png)
+![Running app]([https://github.com/Chicken3847/programming1/blob/main/images/Sketch.png](https://github.com/Chicken3847/programming1/blob/main/images/Sketch.png?raw=true))
 [Source Code](https://github.com/Chicken3847/programming1/tree/main/EtchASketch)
 
 ## Term 2
