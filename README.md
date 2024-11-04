@@ -1,8 +1,8 @@
 # Vincent Nguyen's Programming Portfolio 2024-2025
 
 * Projected graduation 2027
-<li>Interested in Computers</li>
-<li>Experience in Gaming</li>
+* Interested in Computers
+* Experience in Gaming
 
 ## Term 1
 ### Etch-A-Sketch
