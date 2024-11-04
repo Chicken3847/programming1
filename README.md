@@ -11,5 +11,5 @@
 
 ## Term 2
 ### Calculator
-![Running App](https://github.com/Chicken3847/programming1/blob/main/images/Calc.png)
+![Running App]([https://github.com/Chicken3847/programming1/blob/main/images/Calc.png](https://github.com/Chicken3847/programming1/blob/main/images/Calc.png?raw=true))
 [Source Code](https://github.com/Chicken3847/programming1/tree/main/src/Calculatorkj)
