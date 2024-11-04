@@ -7,7 +7,7 @@
 ## Term 1
 ### Etch-A-Sketch
 ![Running app](https://github.com/Chicken3847/programming1/blob/main/images/Sketch.png)
-[Source Code]()
+[Source Code](https://github.com/Chicken3847/programming1/tree/main/EtchASketch)
 
 ## Term 2
 ### Calculator
