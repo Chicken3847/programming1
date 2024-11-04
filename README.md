@@ -11,5 +11,6 @@
 
 ## Term 2
 ### Calculator
+Working Calculator that works with a keyboard
 ![Running App](https://github.com/Chicken3847/programming1/blob/main/images/Calc.png)
 [Source Code](https://github.com/Chicken3847/programming1/tree/main/src/Calculatorkj)
