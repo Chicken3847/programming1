@@ -17,6 +17,12 @@
 
 [Source Code](https://github.com/Chicken3847/programming1/tree/main/src/Timeline)
 
+### GradingTimeline
+
+![Running app](https://github.com/Chicken3847/programming1/blob/main/images/GradingTimeline.png?raw=true)
+
+[Source Code](https://github.com/Chicken3847/programming1/tree/main/src/gradingtimeline)
+
 ## Term 2
 ### Calculator
 
